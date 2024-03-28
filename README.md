@@ -1,7 +1,7 @@
 # BLP(VITD) @ EMNLP2023
 ### This repository contains code implementation of share-task1 (*Violence Inciting Text Detection (VITD) of Bangla Social Media data*) at BLP@EMNLP 2023. Please visit <a href="https://github.com/blp-workshop/blp_task1#blp-shared-task-1-violence-inciting-text-detection-vitd">blp-workshop</a> for more details.
 
-Please cite our paper-
+Please cite our [paper](https://aclanthology.org/2023.banglalp-1.21/)-
 ```@inproceedings{ahmed-etal-2023-score,
     title = "{S}core{\_}{I}s{A}ll{\_}{Y}ou{\_}{N}eed at {BLP}-2023 Task 1: A Hierarchical Classification Approach to Detect Violence Inciting Text using Transformers",
     author = "Ahmed, Kawsar  and
